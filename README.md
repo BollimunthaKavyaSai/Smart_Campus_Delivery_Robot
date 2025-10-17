@@ -1,4 +1,4 @@
-# Autonomous navigation of a mobile robot using ROS2 - Humble Hawksbill
+# Smart Campus Delivery Robot using ROS2 - Humble
 
 - Add this alias to your preferred shell startup script _(`zsh` in my case)_
     ```zsh
